@@ -5,7 +5,7 @@ An adaptation of the [Free Software Definition](https://www.gnu.org/philosophy/f
 
 ## The four essential freedoms
 
-### Science is free if scientists[1] have the four essential freedoms:
+### Science is free if scientists<sup>[1]</sup> have the four essential freedoms:
 
 - The freedom to use research results as you wish, for any purpose (freedom 0).
  
@@ -15,5 +15,13 @@ An adaptation of the [Free Software Definition](https://www.gnu.org/philosophy/f
 
 - The freedom to distribute copies of your modified research results to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code and data is a precondition for this.
 
+
+## History
+
+All changes to the content in chronological order:
+
+- 2018-09-05 11:45 Setup framework
+
+## Footnotes
 
 [1] This can be very broadly defined, including anyone who applies the scientific method or wants to contribute to any part of science (e.g. citizen science).
